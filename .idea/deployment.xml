@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/PeinLavita/gitTest.git" uploadOnCheckin="eb872d19-a5c9-4560-8056-8f7e7de52da0">
+    <serverData>
+      <paths name="https://github.com/PeinLavita/gitTest.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/PeinLavita/gitTest.git" />
+  </component>
+</project>
